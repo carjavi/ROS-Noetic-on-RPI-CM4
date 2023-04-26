@@ -6,12 +6,16 @@
 <img src="https://img.shields.io/badge/Hardware-Raspberry%20ver%204-red"/>
 <img src="https://img.shields.io/badge/OS%20-Raspbian%20GNU%2FLinux%2010%20(buster)-yellowgreen"/>
 
-<div>
-    <p><a href="https://github.com/carjavi/RPI-CM4-getting-started">
-    <img height="150" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" /></a>Si necesitas inicializar la RPI CM4 </p>
-</div>
 
 <br>
+
+Si necesitas inicializar la RPI CM4 
+<a href="https://github.com/carjavi/RPI-CM4-getting-started">
+<img  align="top" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"></a> 
+
+
+<br>
+
 
 > :warning: **Warning:** ROS Noetic Ninjemys salio en Mayo 2020 y va a tener soporte hasta Mayo 2025 (Noetic will be supported until May 2025).
 
