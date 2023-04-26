@@ -1,4 +1,4 @@
-<p align="center"><img src="./img/How-to-Install-ROS-Noetic-on-Raspberry-Pi-4.webp" height="200" alt=" " /></p>
+<p align="center"><img src="./img/How-to-Install-ROS-Noetic-on-Raspberry-Pi-4.webp" height="300" alt=" " /></p>
 <br>
 <h1 align="center">How to Install ROS Noetic on Raspberry Pi CM4</h1> 
 <h4 align="right">May 23</h4>
@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/badge/OS%20-Raspbian%20GNU%2FLinux%2010%20(buster)-yellowgreen"/>
 
 
-Si necesitas inicializar la RPI CM4 
+
 <a href="https://github.com/carjavi/RPI-CM4-getting-started">
-<img height="150" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" /></a>
+<img height="150" style="vertical-align:middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" /></a>Si necesitas inicializar la RPI CM4 
 
 > :warning: **Warning:** ROS Noetic Ninjemys salio en Mayo 2020 y va a tener soporte hasta Mayo 2025 (Noetic will be supported until May 2025).
 
