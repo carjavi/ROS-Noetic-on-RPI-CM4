@@ -28,12 +28,16 @@ Si necesitas inicializar la RPI CM4
 ## How to Install ROS Noetic on Raspberry Pi 4 OS Debian 10 Buster
 https://varhowto.com/install-ros-noetic-raspberry-pi-4/ <br>
 
-<img  width="26"  align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" /> image:  https://www.raspberrypi.com/software/operating-systems/
+<img  width="32"  align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />[Operating system images](https://www.raspberrypi.com/software/operating-systems/)
+ 
 
 <br>
 
 ## How to Install ROS Noetic on Ubuntu 20.04
 https://varhowto.com/install-ros-noetic-ubuntu-20-04/
+
+<img  width="26"  align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />[How to install Ubuntu Desktop on Raspberry Pi 4](https://ubuntu.com/tutorials/how-to-install-ubuntu-desktop-on-raspberry-pi-4#1-overview)
+
 
 <br>
 
