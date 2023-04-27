@@ -28,7 +28,7 @@ Si necesitas inicializar la RPI CM4
 ## How to Install ROS Noetic on Raspberry Pi 4 OS Debian 10 Buster
 https://varhowto.com/install-ros-noetic-raspberry-pi-4/ <br>
 
-<img  width="32"  align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />[Operating system images](https://www.raspberrypi.com/software/operating-systems/)
+<img  width="34"  align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />[Operating system images](https://www.raspberrypi.com/software/operating-systems/)
  
 
 <br>
@@ -36,13 +36,13 @@ https://varhowto.com/install-ros-noetic-raspberry-pi-4/ <br>
 ## How to Install ROS Noetic on Ubuntu 20.04
 https://varhowto.com/install-ros-noetic-ubuntu-20-04/
 
-<img  width="26"  align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />[How to install Ubuntu Desktop on Raspberry Pi 4](https://ubuntu.com/tutorials/how-to-install-ubuntu-desktop-on-raspberry-pi-4#1-overview)
+<img  width="26"  align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /> [How to install Ubuntu Desktop on Raspberry Pi 4](https://ubuntu.com/tutorials/how-to-install-ubuntu-desktop-on-raspberry-pi-4#1-overview)
 
 
 <br>
 
 ## How to Install ROS Noetic with Docker
-https://varhowto.com/install-ros-noetic-docker/
+<img  width="34"  align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> https://varhowto.com/install-ros-noetic-docker/
 
 
 <br>
