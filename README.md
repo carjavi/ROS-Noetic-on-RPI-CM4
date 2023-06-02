@@ -36,6 +36,8 @@ https://varhowto.com/install-ros-noetic-raspberry-pi-4/ <br>
 <p align="center"><img src="./img/debian-buster1.png" height="350" alt=""></p>
 <p align="center"><img src="./img/debian-buster2.png" height="350" alt=""></p>
 
+Se puede instalar la versión con o sin Interfaz grafica
+
 <br>
 
 ### Download Debian 10 Buster <img  width="34"  align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />[Operating system images](https://www.raspberrypi.com/software/operating-systems/). Para instalar con [BALENA](https://etcher.balena.io/)
